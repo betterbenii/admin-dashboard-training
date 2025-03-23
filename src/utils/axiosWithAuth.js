@@ -26,4 +26,4 @@ axiosWithAuth.interceptors.response.use(
   }
 );
 
-export default axiosWithAuth;
+export default axiosWithAuth;  
